@@ -1,5 +1,5 @@
-# Calculator
-just a basic calculator, mainly to understand git and git-hub nothing too serious
+# random file
+just mainly to understand git and git-hub nothing too serious
 <br>
 author - Rehan N
 <br>
